@@ -1,0 +1,114 @@
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\appsettings.Development.json
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\appsettings.json
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\FilmesAPI.exe
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\FilmesAPI.deps.json
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\FilmesAPI.runtimeconfig.json
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\FilmesAPI.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\FilmesAPI.pdb
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\AutoMapper.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Humanizer.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\MySqlConnector.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\System.Collections.Immutable.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\staticwebassets.build.json
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\staticwebassets.development.json
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\staticwebassets\msbuild.FilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesAPI.props
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesAPI.props
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesAPI.props
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\scopedcss\bundle\FilmesAPI.styles.css
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\FilmesAPI.csproj.Up2Date
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\FilmesAPI.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\refint\FilmesAPI.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\FilmesAPI.pdb
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\ref\FilmesAPI.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\bin\Debug\net6.0\FilmesAPI.xml
+E:\projects\.NET\FilmesApi\Filmes API\Filmes API\obj\Debug\net6.0\FilmesAPI.xml
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\appsettings.Development.json
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\appsettings.json
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\FilmesAPI.exe
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\FilmesAPI.deps.json
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\FilmesAPI.runtimeconfig.json
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\FilmesAPI.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\FilmesAPI.pdb
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\FilmesAPI.xml
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\AutoMapper.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Humanizer.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\MySqlConnector.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\System.Collections.Immutable.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\staticwebassets.build.json
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\staticwebassets.development.json
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\staticwebassets\msbuild.FilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesAPI.props
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesAPI.props
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesAPI.props
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\scopedcss\bundle\FilmesAPI.styles.css
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\FilmesAPI.csproj.Up2Date
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\FilmesAPI.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\refint\FilmesAPI.dll
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\FilmesAPI.xml
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\FilmesAPI.pdb
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
+E:\projects\.NET\.NET_FilmeAPI\Filmes API\obj\Debug\net6.0\ref\FilmesAPI.dll
